@@ -15,4 +15,7 @@ The easiest way to do this is to right click the "primes-to-100k" file and click
 list the file path. Just copy and paste that into the program when it asks for it,
 and it should go.
 
+Fun fact: if you've ever wondered why programs have installers, this is one of the
+things that is taken care of for the user.
+
 Double click the "PrimeFactorization" shortcut and enjoy!
